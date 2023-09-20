@@ -16,7 +16,21 @@ Abre el proyecto `WindowsFormsApp`. Implementa un formulario que permita al usua
 
 ### Tarea 2: WPF con .NET 6 (20 minutos)
 
-Abre el proyecto `WPFApp`. Implementa un `DataGrid` que muestre una lista de productos (nombre, precio, cantidad). Agrega funcionalidad para que el usuario pueda añadir, eliminar y editar productos en la lista. Implementa una función de búsqueda para filtrar los productos por nombre.
+Abre el proyecto `WPFApp`. Utiliza el patrón MVVM para implementar las siguientes funcionalidades:
+
+1. **Modelo**: Crea una clase `Producto` con propiedades como `Nombre`, `Precio` y `Cantidad`.
+
+2. **ViewModel**: 
+    - Crea una clase `ProductoViewModel` que contenga una colección observable de productos.
+    - Implementa comandos para añadir, eliminar y editar productos.
+    - Implementa una propiedad para filtrar productos por nombre.
+
+3. **Vista**: 
+    - Utiliza un `DataGrid` para mostrar la lista de productos.
+    - Añade botones para las acciones de añadir, eliminar y editar, y enlázalos a los comandos en tu ViewModel.
+    - Implementa un cuadro de búsqueda para filtrar los productos por nombre, enlazado a tu ViewModel.
+
+Recuerda que la lógica de negocio debe estar en el ViewModel, y la Vista solo debe encargarse de la presentación y la interacción del usuario.
 
 ### Tarea 3: SQL Server (20 minutos)
 

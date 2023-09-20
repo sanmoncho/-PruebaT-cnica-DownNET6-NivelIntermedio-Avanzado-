@@ -1,10 +1,11 @@
-Prueba Técnica .NET 6 (Nivel Intermedio-Avanzado)
-Instrucciones Generales
+#strong>Prueba Técnica .NET 6 (Nivel Intermedio-Avanzado)#
+__Instrucciones Generales__
 ¡Hey, futuro genio del código! 🚀 Prepárate para el desafío .NET 6 de tu vida (o al menos del día). Antes de empezar, asegúrate de estar en un lugar tranquilo y bien iluminado. También, prepárate para compartir tu pantalla; esta sesión será grabada.
 Clona este repositorio y que comiencen los juegos.
 Tienes 1 hora para completar las tareas. Sí, solo una hora, así que no hay tiempo para paseos por el parque.
 Haz un "push" de tu código antes de que el reloj marque el final.
-Tareas
+
+#Tareas#
 Tarea 1: Windows Forms con .NET 6 (20 minutos)
 Abre el proyecto WindowsFormsApp.
 Implementa un formulario que permita al usuario ingresar su nombre, edad y una lista de habilidades (puede ser un conjunto de checkboxes).

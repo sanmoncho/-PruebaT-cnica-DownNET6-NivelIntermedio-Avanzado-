@@ -5,6 +5,7 @@
 ¡Hola,  🚀 Prepárate para el desafío .NET 6 de tu vida (o al menos del día). Antes de empezar, asegúrate de estar en un lugar tranquilo y bien iluminado. También, prepárate para compartir tu pantalla; esta sesión será grabada.
 
 - Clona este repositorio y que comiencen los juegos.
+- Haz un checkout a la branch llamada "Test".
 - Tienes 1  hora y 30 minutos para completar las tareas. Sí, solo una hora y media, así que no hay tiempo para paseos por el parque.
 - Haz un "push" de tu código antes de que el reloj marque el final.
 
